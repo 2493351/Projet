@@ -1,5 +1,5 @@
 requests
 numpy
-gdal==3.11.3
+gdal==3.11.5
 rasterio
 dotenv
